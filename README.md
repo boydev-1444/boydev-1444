@@ -17,7 +17,7 @@ int main() {
 ```lua
 local http = require("http");
 local json = require("json");
-http.post("http://127.0.0.1:50007/goodbye" , json.dumps({
+http.post("http://127.0.0.1:5000/goodbye" , json.dumps({
   message = "Thank you for visiting my profile :3";
 }));
 ```
