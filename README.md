@@ -1,4 +1,4 @@
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=boydev1444&right_color=%23262626&left_color=%2312121)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=boydev-1444&right_color=%23262626&left_color=%2312121)
 
 hi..
 ```cpp
@@ -29,9 +29,9 @@ http.post("http://127.0.0.1:5000/goodbye" , json.dumps({
   </a>
 </div>
 <br/><p align="center">
-<a href="https://github.com/boydev1444">
-  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=boydev1444&theme=github_dark"/>
-  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=boydev1444&theme=github_dark"/>
-  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=boydev1444&theme=github_dark"/>
+<a href="https://github.com/boydev-1444">
+  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=boydev-1444&theme=github_dark"/>
+  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=boydev-1444&theme=github_dark"/>
+  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=boydev-1444&theme=github_dark"/>
 </a>
 </p>
