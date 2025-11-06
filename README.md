@@ -1,5 +1,5 @@
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=boydev-1444&right_color=%23262626&left_color=%2312121)
-hi..
+
 ```cpp
 #include iostream
 int main() {
@@ -14,7 +14,7 @@ int main() {
 ![C#](https://img.shields.io/badge/C%23-green)
 ![Other](https://img.shields.io/badge/Other-gray)
 
-- I am not fluent in **some** languages, but I have basic and advanced knowledge of them.
+- How it's your day going?
 ```lua
 local http = require("http");
 local json = require("json");
