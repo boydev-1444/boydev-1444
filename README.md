@@ -12,6 +12,7 @@ int main() {
 ![Python](https://img.shields.io/badge/Python-yellow)
 ![C++](https://img.shields.io/badge/C++-purple)
 ![C#](https://img.shields.io/badge/C%23-green)
+![Rust](https://img.shields.io/badge/Rust-orange)
 ![Other](https://img.shields.io/badge/Other-gray)
 
 - How it's your day going?
